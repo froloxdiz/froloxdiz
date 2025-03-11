@@ -3,9 +3,10 @@ this my brother Bilo ↓
 
 ![Anime](https://media1.tenor.com/m/vdUdvzm4ywgAAAAd/bosnov-my-brother-bilo.gif)
 
+
 ## 🚀 About Me
 - 🎓 Student at Telkom University
-- 🖥️ I Like my brother Bilo 
+- 🖥️ I like my brother Bilo 
 - 🏍️ Motorbike enthusiast
 
 ## 🔧 Technologies & Tools
