@@ -1,10 +1,10 @@
 # Hi there! 👋
-
+this my brother Bilo ↓
 ![Anime](https://media1.tenor.com/m/vdUdvzm4ywgAAAAd/bosnov-my-brother-bilo.gif)
 
 ## 🚀 About Me
 - 🎓 Student at Telkom University
-- 🖥️ I Like my brother Bilo
+- 🖥️ I Like my brother Bilo 
 - 🏍️ Motorbike enthusiast
 
 ## 🔧 Technologies & Tools
@@ -17,6 +17,5 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## 🌱 Fun Fact
-☕ Can’t start the day without coffee!
-
+🥸 Can't start a day wtih memes
 📫 **Reach me at:** [diazreksaputra@gmail.com]
