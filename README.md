@@ -1,13 +1,13 @@
 # Hi there! 👋
 this my brother Bilo ↓
 
-![Anime](https://media1.tenor.com/m/vdUdvzm4ywgAAAAd/bosnov-my-brother-bilo.gif)
+![Bilo](https://media1.tenor.com/m/vdUdvzm4ywgAAAAd/bosnov-my-brother-bilo.gif)
 
 
 ## 🚀 About Me
 - 🎓 Student at Telkom University
 - 🖥️ I like my brother Bilo 
-- 🏍️ Motorbike enthusiast
+- 🧬 INTP Guy
 
 ## 🔧 Technologies & Tools
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -21,4 +21,4 @@ this my brother Bilo ↓
 ## 🌱 Fun Fact
 🥸 Can't start a day wtih memes
 
-📫 **Reach me at:** [diazreksaputra@gmail.com]
+📫 **Reach me at:** diazreksaputra@gmail.com
